@@ -20,6 +20,8 @@ public class BACS2023 {
         //try commit
         //something waiting for pull
         //try pull
+        
+        //try push
     }
     
 }
