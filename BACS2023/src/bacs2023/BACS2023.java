@@ -17,6 +17,7 @@ public class BACS2023 {
     public static void main(String[] args) {
         // TODO code application logic here
         //try pull
+        // try push
     }
     
 }
