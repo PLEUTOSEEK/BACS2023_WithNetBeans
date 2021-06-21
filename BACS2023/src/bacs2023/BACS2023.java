@@ -16,17 +16,8 @@ public class BACS2023 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //some code here...
-        //try commit
-        //some code on weihan
-        //one more time
-        //some error fixed
-        //try pull
-        //gan wei han
-        //push some thing
-        //hanhan coment
-        //zhuo tan
-        //hangan comand
-        //hangan 0620
+        
+        //Hi weihan
+
     }
 }
